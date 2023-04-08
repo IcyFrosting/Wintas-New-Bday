@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey');
+
+* {
+    background-color: #C2ABD7;
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+}
+
+img {
+    border: 10px solid #8EE53F;
+    margin-bottom: 1%;
+}
+
+/* Card */
+
+#birthdayCard {
+    background: #8EE53F;
+    color: #111111;
+    width: 25%;
+    min-width: 300px;
+    border: 8px solid #8EE53F;
+    border-left: 10px solid #DD0000;
+    margin: 10px;
+    padding: 20px;
+  }
+  
+  .redText {
+    color: #CC0000;
+    background: #8EE53F;
+  }
+  
+  .signature {
+    text-align: right;
+    background: #8EE53F;
+  }
+  
+  strong {
+    font-size: large;
+    color: #CC0000;
+    background: #8EE53F;
+  }
+
+  #arjBackground {
+    background: #8EE53F;
+  }
